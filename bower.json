@@ -1,0 +1,11 @@
+{
+  "name": "ASP.NET",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.4.7",
+    "angular-material": "^0.11.2",
+    "bootstrap-sass-official": "^3.3.5",
+    "compass": "^0.5.8",
+    "jasmine": "^2.3.4"
+  }
+}
